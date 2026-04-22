@@ -1,0 +1,13 @@
+# Environments
+.env
+
+# Backend Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/dummy.pdf
+backend/dummy_real.pdf
+
+# OS generated files
+.DS_Store
+Thumbs.db
